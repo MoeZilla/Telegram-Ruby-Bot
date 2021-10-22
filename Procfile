@@ -1,0 +1,1 @@
+fuck: ruby main.rb
